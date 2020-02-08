@@ -1,0 +1,18 @@
+.btn-share{
+    margin-bottom: 2.5%;
+}
+
+.card{
+    margin-top: 1.25%; 
+    margin-bottom: 1.25%;
+}
+
+.sharesMainDiv{
+    margin: auto; 
+    width: 50%;
+}
+
+.custom-card-class { 
+    display: flex; 
+    justify-content: space-between;
+  }
