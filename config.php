@@ -7,7 +7,7 @@ define("DB_NAME", "sharedPosts");
 
 //urlparams
 
-define("ROOT_PATH", "/");
+define("ROOT_PATH", "/sharedPost/sharedPost/");
 define("ROOT_URL", "http://localhost/sharedPost/sharedPost/");
 
 ?>
