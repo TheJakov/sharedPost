@@ -14,7 +14,7 @@
                     <blockquote class="blockquote mb-0">
                         <h6><?php echo $item['body']; ?></h6>
                         <div class="custom-card-class">
-                            <footer class="blockquote-footer">From anonymous user</footer>
+                            <footer class="blockquote-footer"> <?php echo $item['username']; ?></footer>
                             <a class="btn btn-secondary" href="<?php echo $item['link']; ?>" target="_blank">Find out more</a>
                         </div>
                     </blockquote>

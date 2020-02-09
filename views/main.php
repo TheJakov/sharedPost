@@ -56,5 +56,11 @@
         </div>
     </div>
 
+    <div class="d-flex justify-content-center" style="margin-top: 3.5%;">
+        <div class="row">
+        <?php Messages::display(); ?>
+        </div>
+    </div>
+
 </body>
 </html>
