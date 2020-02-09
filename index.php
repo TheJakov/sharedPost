@@ -1,4 +1,7 @@
 <?php
+//Staring the session, every other page is included in this one
+session_start();
+
 // Include Config
 require('config.php');
 
