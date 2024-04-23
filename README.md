@@ -38,9 +38,7 @@
 
 ### MVC architecture applied
 
-<img alt="Logout" src="https://www.researchgate.net/profile/Mjm_Razi/publication/328716094/figure/fig2/AS:688713864597504@1541213589083/Interaction-within-MVC-pattern-The-Model-component-correlates-with-all-the-data-related.ppm" style="height: 100%; width: auto;">
-
-Image source: www.researchgate.net
+![image](https://github.com/TheJakov/sharedPost/assets/37014410/c8008073-6d32-40a8-af11-4ae1c01fdef8)
 
 ### What tools have I used ? 
 
